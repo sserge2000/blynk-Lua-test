@@ -1,0 +1,3 @@
+[submodule "esuite"]
+	path = esuite
+	url = https://github.com/BLavery/esuite-lua.git
