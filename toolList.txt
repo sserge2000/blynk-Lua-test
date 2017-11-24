@@ -1,0 +1,3 @@
+IDE - ZeroBrane - https://studio.zerobrane.com/
+ESPlorer
+NodeMCU-PyFlasher-2.1.exe
